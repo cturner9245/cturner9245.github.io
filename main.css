@@ -1,3 +1,6 @@
+body {
+  background: goldenrod;
+}
 .bubble {
   position: relative;
   font-family: sans-serif;
